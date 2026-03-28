@@ -1,7 +1,7 @@
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
-venv/venv
+venv/
 .venv
 interactive_agent.jsonl
 .DS_Store
