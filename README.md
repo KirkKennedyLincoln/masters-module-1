@@ -6,15 +6,7 @@ from agentic AI invocations.  It provides every step within the process
 including the system prompt, user messages, agent responses, and their
 associated tool calls.  
 
-These data points are protected under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
-
-Claude AI was used to assist with syntax, proof-reading, and code review during development.
-
-## Dataset Reference
-NVIDIA Corporation. (2025). Nemotron-Agentic-Tool-Use-v1 [Data set](https://huggingface.co/datasets/nvidia/Nemotron-Agentic-v1).
-    HuggingFace. https://huggingface.co/datasets/nvidia/Nemotron-Agentic-v1
-
-## How to Reproduce
+## Setup
 ```bash
 git clone https://github.com/KirkKennedyLincoln/masters-module-1.git
 cd masters-module-1
